@@ -1,6 +1,6 @@
 # Main
 PROGRAM = TinyShell
-OBJS = Main.o CreateTCPClientSocket.o Login.o ClientMessanger.o ClientMemo.o HandleCmd.o HashPass.o CreateTCPServerSocket.o AcceptTCPConnection.o ProcessMain.o HandleTCPClient.o DieWithError.o InterruptSignalHandler.o
+OBJS = Main.o CreateTCPClientSocket.o Login.o ClientMessanger.o ClientMemo.o HandleCmd.o HashPass.o CreateTCPServerSocket.o AcceptTCPConnection.o ProcessMain.o HandleTCPClient.o HandleClientLogin.o DieWithError.o InterruptSignalHandler.o
 CC = gcc
 CFLAGS = -Wall -O0
 LIBRARIES = -lcrypt
