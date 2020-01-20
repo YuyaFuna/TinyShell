@@ -1,10 +1,10 @@
 # Name
 
-"TinyShell"
+TinyShell
 
 # What is TinyShell ?
 
-"ログイン機能付きのマルチクライアント⇔サーバ間の簡易的なシェルです。"
+ログイン機能付きのマルチクライアント⇔サーバ間の簡易的なシェルです。
 
 # Requirement
 
@@ -20,7 +20,7 @@ make
 
 # Usage
 
-"サーバー側"
+サーバー側
 
 ```bash
 #起動
@@ -29,7 +29,7 @@ make
 pgrep TinyShell | xargs kill -9
 ```
 
-"クライアント側"
+クライアント側
 
 ```bash
 ./TinyShell client <SERVER IP> <PORT> #default PORT 8000 ,なくても可
