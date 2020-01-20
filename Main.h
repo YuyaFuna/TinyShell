@@ -48,6 +48,7 @@ int CreateTCPServerSocket(unsigned short port); /* Create TCP server socket */
 void ProcessMain(int servSock);                 /* Create Process */
 int AcceptTCPConnection(int servSock);          /* Accept TCP connection request */
 void HandleTCPClient(int clntSocket);           /* TCP client handling function */
+char *HandleClientLogin(int clntSocket);
 
 /* for client */
 int CreateTCPClientSocket(char *ip, unsigned short port); /* Create TCP client socket */
