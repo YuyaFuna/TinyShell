@@ -34,3 +34,11 @@ pgrep TinyShell | xargs kill -9
 ```bash
 ./TinyShell client <SERVER IP> <PORT> #default PORT 8000 ,なくても可
 ```
+
+# Author
+ 
+* 作成者 - YuyaFuna
+ 
+# License
+ 
+TinyShell is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
