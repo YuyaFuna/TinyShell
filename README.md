@@ -6,6 +6,10 @@ TinyShell
 
 ログイン機能付きのマルチクライアント⇔サーバ間の簡易的なシェルです。
 
+# Demo
+
+![project](https://user-images.githubusercontent.com/49707171/72792997-3d956180-3c7d-11ea-9c5f-95d898821d59.gif)
+
 # Requirement
 
 * gcc 5.4.0以降（gcc 7.4.0でも動作確認済）
