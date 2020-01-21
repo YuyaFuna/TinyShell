@@ -8,7 +8,7 @@ TinyShell
 
 # Demo
 
-![project](https://user-images.githubusercontent.com/49707171/72792997-3d956180-3c7d-11ea-9c5f-95d898821d59.gif)
+![project_](https://user-images.githubusercontent.com/49707171/72794973-32900080-3c80-11ea-88c6-96e7c5614641.gif)
 
 # Requirement
 
